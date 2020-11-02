@@ -1,0 +1,25 @@
+{
+  "name": "com.ajay.googlelogin",
+  "version": "1.0.0",
+  "description": "Login with google on android app ",
+  "cordova": {
+    "id": "com.ajay.googlelogin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaydoitlean/googlepluslogin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ajay Singh Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaydoitlean/googlepluslogin/issues"
+  },
+  "homepage": "https://github.com/ajaydoitlean/googlepluslogin#readme"
+}
